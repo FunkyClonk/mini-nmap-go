@@ -44,4 +44,8 @@ docker run --rm mini-nmap scan --ip 192.168.1.1
 ```
 
 ## 🤝 Contributing
-Pull requests are
+Pull requests are welcome! Please read the `CONTRIBUTING.md` before submitting.
+
+📜 License
+
+Apache-2.0
